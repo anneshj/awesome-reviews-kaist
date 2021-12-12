@@ -43,7 +43,7 @@ The MMV approach requires no annotation or manual efforts to label video data, w
 
 The proposed method of the paper is illustrated in Figure 1.
 
-![Untitled](Self-Supervised%20MultiModal%20Versatile%20Networks%20%5BEN%5D%2087f359296d7c4b5b9a298478ee1c3350/Untitled.png)
+![Untitled](/.gitbook/assets/59/Figure1.png)
 
 Figure 1: Proposed methods of the paper
 
