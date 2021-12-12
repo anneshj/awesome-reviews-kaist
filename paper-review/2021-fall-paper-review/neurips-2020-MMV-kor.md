@@ -5,7 +5,7 @@ description: Alayrac et al. / Self-Supervised MultiModal Versatile Networks / Ne
 # Self-Supervised MultiModal Versatile Networks [KOR]
 
 
-영어로 쓰인 리뷰를 읽으려면 **여기**를 누르세요.
+영어로 쓰인 리뷰를 읽으려면 **[여기](https://awesome-davian.gitbook.io/awesome-reviews/paper-review/2021-fall-paper-review/neurips-2020-multimodal-versatile-eng)**를 누르세요.
 
 ## 1. Problem definition
 
